@@ -98,7 +98,7 @@ For more information about the UI, see [ZAP UI Overview](/docs/desktop/ui/) in t
 
 ZAP also supports a powerful API and command line functionality, both of which are beyond the scope of this guide.
 
-**IMPORTANT**: You should only use ZAP to attack an application you have permission to test with an active attack. Because this is a simulation that acts like a real attack, actual damage can be done to a site’s functionality, data, etc. If you are worried about using ZAP, you can prevent it from causing harm (though ZAP’s functionality will be significantly reduced) by switching to safe mode.
+**IMPORTANT**: You should only use ZAP to attack an application if you have permission to test with an active attack. Because this is a simulation that acts like a real attack, actual damage can be done to a site’s functionality, data, etc. If you are worried about using ZAP, you can prevent it from causing harm (though ZAP’s functionality will be significantly reduced) by switching to safe mode.
 
 To switch ZAP to safe mode, click the arrow on the mode dropdown on the main toolbar to expand the dropdown list and select **Safe Mode**.
 
